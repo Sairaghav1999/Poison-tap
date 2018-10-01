@@ -1,4 +1,6 @@
 Made a few tweaks to the samyk's poison tap in the js file for the backdoor .
+This is a pentesting box.
+It performs 3 major attacks using rasberry pi.
 
 # [PoisonTap](https://samy.pl/poisontap/) - siphons cookies, exposes internal router & installs web backdoor on locked computers 
 
