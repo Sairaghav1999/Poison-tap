@@ -6,7 +6,7 @@ Created by <a href="https://twitter.com/samykamkar" target=_blank>@SamyKamkar</a
 
 When **[PoisonTap](https://samy.pl/poisontap)** (<a href="http://amzn.to/2eMr2WY" target="_blank">Raspberry Pi Zero</a> & Node.js) is plugged into a **locked/password protected** computer, it:
 
-* emulates an Ethernet device over USB (or Thunderbolt)
+* It emulates an Ethernet device over USB (or Thunderbolt)
 * hijacks **all Internet traffic** from the machine (*despite* being a low priority/unknown network interface)
 * siphons and stores HTTP cookies and sessions from the web browser for the Alexa top 1,000,000 websites
 * exposes the **internal router** to the attacker, making it accessible **remotely** via outbound WebSocket and DNS rebinding (thanks <a href="https://maustin.net" target=_blank>Matt Austin</a> for rebinding idea!)
