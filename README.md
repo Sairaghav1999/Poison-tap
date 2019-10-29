@@ -1,4 +1,4 @@
-Made a few tweaks to the samyk's poison tap in the js file for the backdoor .
+Made a few tweaks to the samyk's poison tap in the js file for the backdoors.
 
 # [PoisonTap](https://samy.pl/poisontap/) - siphons cookies, exposes internal router & installs web backdoor on locked computers 
 
