@@ -55,7 +55,7 @@ PoisonTap produces a cascading effect by exploiting the existing trust in variou
 
 ![Network Hijacking](https://samy.pl/poisontap/network2.gif?)
 
-In a nutshell, PoisonTap performs the following:
+In a nutshell, PoisonTap performs the following things:
 
 
 ### *Network Hijacking*
